@@ -14,12 +14,6 @@ A simple and responsive Color Palette Generator built using **HTML**, **Sass (SC
 
 ---
 
-## 📸 Screenshot
-
-![Color Palette Generator Screenshot](screenshot.png) <!-- Add your screenshot file here -->
-
----
-
 ## Clone the repository
 
 ```bash
